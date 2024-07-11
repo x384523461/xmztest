@@ -1,1 +1,6 @@
 nih12345612345678
+<<<<<<< HEAD
+=======
+nihao
+zhenhao
+>>>>>>> 93999d3... update text.txt:zhenhao
